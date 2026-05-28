@@ -21,7 +21,7 @@ Create a HTML file and include the needed Bootstrap components.
 
 ## Step 6:
 Publish the website in the LocalHost.
-
+ 
 # PROGRAM :
 ```
 index.html
